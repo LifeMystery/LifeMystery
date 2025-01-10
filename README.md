@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Lebo Aphane!
-🔭 I’m a full stack developer and a student at [WeThinkCode](https://wethinkcode.co.za/)<br>🌱 I’m currently learning Data Analytics and Machine Learning<br>💼 I love working on real-world projects — there's nothing more rewarding than seeing my solutions make a real impact<br>📫 How to reach me: iaphane023@student.wethinkcode.co.za or via [LinkedIn](https://www.linkedin.com/in/lebo-aphane/)
+🔭 I’m a full stack developer and completed my software engineering at [WeThinkCode](https://wethinkcode.co.za/)<br>🌱 I’m currently learning Data Analytics and Machine Learning<br>💼 I love working on real-world projects — there's nothing more rewarding than seeing my solutions make a real impact<br>📫 How to reach me: innocentaphane12@gmail.com or via [LinkedIn](https://www.linkedin.com/in/lebo-aphane/)
 
 
 ## 🌐 Socials
